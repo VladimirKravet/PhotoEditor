@@ -1,0 +1,4 @@
+PhotoEditor is a versatile application that allows users to register and log in using Firebase authentication, offering two registration options: via email with a confirmation email sent to verify the account, or through a Google account. The app provides robust photo editing features, allowing users to draw, add text, and apply various filters to their photos. Additionally, users can save their edited photos or share them directly from the app, making it easy to enhance and share moments with others.
+
+
+To switch between drawing and rotation/zoom modes, you simply need to tap the corresponding button labeled either with a "pencil" icon for drawing or a "rotation image" icon for adjusting rotation and zoom. To rotate the image, use a two-finger gesture. This intuitive toggle makes it easy to edit your photos with precision and flexibility.
